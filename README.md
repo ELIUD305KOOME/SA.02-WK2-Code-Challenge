@@ -5,7 +5,10 @@
 #### By *ELIUD305KOOME*
 
 ## Description
-code challenge to test my 
+My name is eliud, am a student at moringa school, am a software developer student. 
+my conctact :0792182559 whatsapp:0792182559 This code challenge test my pontential for coding based on the skills learnt past week.
+
+
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
