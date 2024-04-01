@@ -23,7 +23,7 @@ git@github.com:ELIUD305KOOME/wk.2.git
 ```
 
 # Live Link
-[Git](gh-pages link)
+ https://eliud305koome.github.io/wk.2/
 
 ## Technologies used
 HTML
@@ -32,7 +32,7 @@ Github
 Javascript
 
 ## Support and contact details
-github.com/hamida-mstafa
+github.com/ELIUD305KOOME
 
 ### License
 The content of this site is licensed under the MIT license
