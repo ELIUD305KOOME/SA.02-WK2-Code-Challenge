@@ -18,7 +18,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+git@github.com:ELIUD305KOOME/wk.2.git
 
 ```
 
